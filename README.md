@@ -2,6 +2,8 @@
     This is a responsive Landing Page created with a clean, intuitive design in mind.
     Created using html/css technologies
    
+- <a href='https://lycan-nt.github.io/landing-page-2021/'>Visit Page</a>
+   
  <img src="https://github.com/lycan-nt/landing-page-2021/blob/main/images/print.PNG">
 
 ## Instructions
@@ -16,8 +18,8 @@
     To edit the project open in your preferred editor and to view just open the index.html in the browser
     
 ## Built with
-    -- HTML
-    -- CSS
+    - HTML
+    - CSS
     
 ## Author
     Felipe D. Santos
