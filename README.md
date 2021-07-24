@@ -2,7 +2,7 @@
     This is a responsive Landing Page created with a clean, intuitive design in mind.
     Created using html/css technologies
    
-- <a href='https://lycan-nt.github.io/landing-page-2021/'>Visit Page</a>
+- <a href='https://lycan-nt.github.io/landing-page-2021/' target='_blank'>Visit Page</a>
    
  <img src="https://github.com/lycan-nt/landing-page-2021/blob/main/images/print.PNG">
 
